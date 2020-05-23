@@ -1,0 +1,8 @@
+Here we have written two codes, both for the inversion of Gravity data. 
+
+In both the programs we are trying to in find the unknown parameters of a fault using bouguer anomaly data (those who are not from
+earth science background google it for more theoretical idea about it). 
+
+Genetic ALgorithm: To get better idea about how the Algorithm works, I'd suggest to go through : https://www.tutorialspoint.com/genetic_algorithms/index.htm 
+
+Particle Swarm Optimization: To get better idea about how the Algorithm works, I'd suggest to go through : https://www.researchgate.net/publication/255988167_Gravity_inversion_of_a_fault_by_Particle_swarm_optimization_PSO
