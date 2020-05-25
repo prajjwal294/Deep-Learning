@@ -1,5 +1,5 @@
 In this program we are trying to detect 7 unknown parameters (4 unknown velocities and 3 unknown depths of each layer) via simple ANN architecture. 
-Note: Search for Seismic Velocity to get more idea about the problem statement
+
 Predicting Sesimic velocity along with the depth of layers is a typical geophysical problem.
 We have generated the synthetic data on our own. 
 The ANN was trained on 100,000 datasets and an accuracy of ~91% was achieved.
