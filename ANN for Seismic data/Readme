@@ -1,4 +1,4 @@
-In this program we are trying to detect 7 unknown parameters (4 unknown velocities and 3 unknown depths of each layer) via simple ANN architecture. 
+In this program we are trying to detect 7 unknown parameters (4 unknown velocities and 3 unknown thickness of each layer) via simple ANN architecture. 
 
 Predicting Sesimic velocity along with the depth of layers is a typical geophysical problem.
 We have generated the synthetic data on our own. 
