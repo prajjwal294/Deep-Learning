@@ -1,0 +1,5 @@
+In this project we have implemented LSTM-MSNet model on M4 forecasting data. We have used PyTorch to develop our model. But before its implementation we have performed all the necessary steps of pre-processing of time series data. 
+Please go through the jupyter notebook, I have mentioned description of each step in text cells.
+
+Paper Reference: https://arxiv.org/pdf/1909.04293.pdf
+Dataset: https://www.kaggle.com/yogesh94/m4-forecasting-competition-dataset
