@@ -1,6 +1,0 @@
-The following program is based on VGG16 and is a classification problem. 
-We have made use of transfer learning and have downloaded pretrained weights.
-
-It is a kaggle problem and one can find the dataset here: https://www.kaggle.com/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered
-
-Note: The accuracy is about ~75% because the amount of data is not enough.
