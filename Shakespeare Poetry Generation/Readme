@@ -1,6 +1,0 @@
-Text Generator for writing Shakespeare styled poems and sonnets.
-
-Original Data Link :- http://www.gutenberg.org/cache/epub/1041/pg1041.txt
-
-We have shown a how text generation os possible using LSTMs. Here we are trying to generate Shakespeare poetry using the given data set.
-We see, as we increase number of epochs and deepen our neural network, the results gets more and more rthymic and words tend to get more and more meaningful (works well after 100 epochs). 
